@@ -1,13 +1,6 @@
-import static org.junit.Assert.*;
-
-import Repository.AddressBook;
-import Repository.BuddyInfo;
-import org.assertj.core.internal.bytebuddy.build.ToStringPlugin;
+import Repository.AddressBook.AddressBook;
+import Repository.AddressBook.BuddyInfo;
 import org.junit.Before;
-import org.junit.Test;
-
-import javax.persistence.*;
-import java.util.List;
 
 public class AddressBookTest {
     AddressBook addressBook;

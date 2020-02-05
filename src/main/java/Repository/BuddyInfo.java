@@ -1,4 +1,4 @@
-package Repository;
+package Repository.AddressBook;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
